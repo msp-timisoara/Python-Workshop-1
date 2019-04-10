@@ -1,9 +1,5 @@
 # Python Workshop 1
 
-## cristian.lemeni
-
-## April 10, 2019
-
 ## Introduction
 
 General presentation of Python. Talk a bit about it’s features, it’s ease of use
