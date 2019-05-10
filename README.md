@@ -21,8 +21,7 @@ and are not disconnected between them.
 ## Set up
 
 Make sure every one is set up correct with the same version of Python(preferably
-3.x), either with an IDE like Pycharm or can at least run python scripts man-
-ually(if you want to do this, I recommend also presenting Powershell a bit).
+3.x), either with an IDE like Pycharm or can at least run python scripts manually(if you want to do this, I recommend also presenting Powershell a bit).
 
 ## Workshop flow
 
